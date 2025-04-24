@@ -34,7 +34,7 @@ export const projectsData: ProjectsData = {
       title: "Movie Ticket Booking System",
       description: "A console-based system for selecting movies, viewing showtimes, and booking tickets efficiently.",
       technologies: ["C++"],
-      image: "/Public/movie_ticket_booking_system.png",
+      image: "/movie_ticket_booking_system.png",
     }
   ],
   academic: [
