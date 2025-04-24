@@ -113,7 +113,7 @@ const IntroSection: React.FC = () => {
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary-500/50 shadow-glow">
                 <img
-                  src="/Public/Chandan.jpg"
+                  src="/Chandan.jpg"
                   alt="Chandan"
                   className="w-full h-full object-cover"
                 />
